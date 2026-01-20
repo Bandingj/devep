@@ -12,7 +12,7 @@ resource "aws_instance" "example" {
   instance_type = "t3.micro"
 
   tags = {
-    Name = "my-server1111"
+    Name = "my-server134"
   }
 }
 
